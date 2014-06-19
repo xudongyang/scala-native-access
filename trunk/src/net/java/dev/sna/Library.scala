@@ -1,4 +1,4 @@
-package net.java.sna
+package net.java.dev.sna
 
 import com.sun.jna.{Function => JNAFunction}
 
